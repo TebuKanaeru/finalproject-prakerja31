@@ -1,0 +1,37 @@
+
+.jumbotron {
+    padding: 5rem 2rem;
+    background-color: beige;
+}
+
+#about {
+    margin-top: 200px;
+}
+
+#experiences {
+    margin-top: 200px;
+    background-color: beige;
+}
+
+#education {
+    margin-top: 200px;
+}
+
+#skill {
+    margin-top: 200px;
+    background-color: beige;
+}
+
+#interests {
+    margin-top: 200px;
+}
+
+#award {
+    margin-top: 200px;
+    margin-bottom: 200px;
+    background-color: beige;
+}
+
+section {
+    padding-top: 5rem;
+}
